@@ -22,3 +22,24 @@
     --container-width-ms: 90%;
     --transition: all 400ms ease;
 }
+
+/* ---------------------MEDIA QUERIES (tablets and such)---------------------- */
+@media screen and (max-width: 1024px) {
+    .container {
+        width: var(--container-width-md);
+    }
+    section {
+        margin-top: 6rem;
+    }
+}
+
+/* ---------------------MEDIA QUERIES (mobile phones and such)---------------------- */
+@media screen and (max-width: 600px) {
+    .container {
+        width: var(--container-width-ms);
+    }
+    section {
+        margin-top: 2rem;
+    }
+}
+
