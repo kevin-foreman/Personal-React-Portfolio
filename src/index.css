@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +9,7 @@
     list-style: none;
     text-decoration: none;
 }
-
+/* Colorized using tetradic color scheme */
 :root {
     --color-bg: #1f3838;
     --color-bg-variant: #1f1f38;
@@ -15,5 +17,8 @@
     --color-primary-variant: #381f1f;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
+    --container-width-lf: 75%;
+    --container-width-md: 85%;
+    --container-width-ms: 90%;
+    --transition: all 400ms ease;
 }
-
