@@ -44,6 +44,10 @@ body {
     background-image: url(../src/assets/bg-texture.png);
 }
 
+.text-light {
+    color: var(--color-light);
+}
+
 
 /* ---------------------MEDIA QUERIES (tablets and such)---------------------- */
 @media screen and (max-width: 1024px) {
