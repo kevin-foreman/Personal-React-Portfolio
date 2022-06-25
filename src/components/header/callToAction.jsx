@@ -1,9 +1,9 @@
 import React from 'react'
-
+import resume from '../../assets/resume.pdf'
 const callToAction = () => {
   return (
     <div className='ac'>
-        <a href="">Download resume</a>
+        <a href={resume} download>Download resume</a>
         <a href="#contact">Message me</a>
     </div>
   )
