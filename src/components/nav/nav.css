@@ -22,9 +22,11 @@ nav a {
 
 nav a:hover {
     background: var(--color-bg-variant);
+    border-radius: 20px;
 }
 
 nav a.active {
     background: var(--color-bg);
-    color: var(--color-white)
+    color: var(--color-white);
+    border-radius: 20px;
 }
