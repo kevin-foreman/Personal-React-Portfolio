@@ -3,6 +3,7 @@ import {FaLinkedin} from 'react-icons/fa'
 import {FaGithub} from 'react-icons/fa'
 import {FaTwitter} from 'react-icons/fa'
 
+// links to my social media accounts
 const SocialLinks = () => {
   return (
     <div className="social__links">

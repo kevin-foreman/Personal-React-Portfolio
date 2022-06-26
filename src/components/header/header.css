@@ -1,7 +1,7 @@
 /* --------- Overall header styling --------- */
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -11,7 +11,7 @@ header {
     position: relative;
 }
 
-/* --------- Links to resume and messaging ---------- */
+/* --------- Links to resume and messaging --------- */
 .cta {
     margin-top: 2rem;
     display: flex;
@@ -19,7 +19,7 @@ header {
     justify-content: center;
 }
 
-/* --------- Links to social media ------------- */
+/* --------- Links to social media --------- */
 .social__links {
     display: flex;
     flex-direction: column;
@@ -28,4 +28,15 @@ header {
     position: absolute;
     left: 0;
     bottom: 1rem;
+}
+
+/* --------- Make the image take up less space and give it some spice  --------- */
+.kevin {
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 25rem;
+    position: absolute;
+    border-radius: 50px;
+    left: calc(50% - 12.5rem);
+    margin-top: 2rem;
+    border-radius: 10rem 10rem;
 }
