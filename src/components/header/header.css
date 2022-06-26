@@ -59,5 +59,6 @@ header {
 
     .social__links {
         bottom: 33rem;
+        display: none;
     }
 }
