@@ -27,7 +27,7 @@ header {
     gap: 1rem;
     position: absolute;
     left: 0;
-    bottom: 1rem;
+    bottom: 15rem;
 }
 
 /* --------- Make the image take up less space and give it some spice  --------- */
@@ -40,4 +40,23 @@ header {
     margin-top: 2rem;
     border-radius: 10rem 10rem;
     padding: 1rem 2rem;
+}
+
+/* ---------------------MEDIA QUERIES (tablets and such)---------------------- */
+@media screen and (max-width: 1024px) {
+    header {
+        height: 100vh;
+    }
+
+}
+
+/* ---------------------MEDIA QUERIES (mobile phones and such)---------------------- */
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+
+    .social__links {
+        bottom: 33rem;
+    }
 }
