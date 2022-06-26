@@ -1,3 +1,4 @@
+/* --------- Overall header styling --------- */
 header {
     height: 100vh;
     padding-top: 7rem;
@@ -8,4 +9,23 @@ header {
     text-align: center;
     height: 100%;
     position: relative;
+}
+
+/* --------- Links to resume and messaging ---------- */
+.cta {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+/* --------- Links to social media ------------- */
+.social__links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    position: absolute;
+    left: 0;
+    bottom: 1rem;
 }
