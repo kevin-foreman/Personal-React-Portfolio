@@ -32,8 +32,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={SUDOKU} alt="Sudoku game" />
             <h3>Cool Sudoku App</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman/cool-sudoku" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://kevin-foreman.github.io/cool-sudoku/" className='btn btn-primary' target="_blank" rel="noreferrer">Live link</a>
+            </div>
 
           </div>
           
@@ -41,10 +43,12 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={TECH} alt="Coffe shop" />
+            <img src={TECH} alt="Thumbnail" />
             <h3>Master Flex Tech</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman/MasterFlex-Tech" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://masterflex.tech/" className='btn btn-primary' target="_blank" rel="noreferrer">Live link</a>
+            </div>
 
           </div>
           
@@ -52,10 +56,12 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={BUDGET} alt="Coffe shop" />
+            <img src={BUDGET} alt="Spreadsheet" />
             <h3>Budget tracker</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman/progressive-budget-tracker" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://advanced-pwa-budget-tracking.herokuapp.com/" className='btn btn-primary' target="_blank" rel="noreferrer">Live link</a>
+            </div>
 
           </div>
           
@@ -63,10 +69,13 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={README} alt="Coffe shop" />
+            <img src={README} alt="Screenshot" />
             <h3>Readme generator</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman/README-Generator" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://drive.google.com/file/d/16RsiCHavyyjKZF0O3JKCBwgSCcX0-tbO/view" className='btn btn-primary' target="_blank" rel="noreferrer">Live demo</a>
+            </div>
+            
 
           </div>
           
@@ -74,10 +83,12 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={MORETOCOME} alt="Coffe shop" />
+            <img src={MORETOCOME} alt="Equation meme" />
             <h3>More to come...</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://github.com/kevin-foreman" className='btn btn-primary' target="_blank" rel="noreferrer">Live link</a>
+            </div>
 
           </div>
           

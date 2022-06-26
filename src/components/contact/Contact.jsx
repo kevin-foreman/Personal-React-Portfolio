@@ -9,25 +9,25 @@ const Contact = () => {
     <section id='contact'>
       <h2>How to reach me</h2>
 
-      <div className="container container__contact">
+      <div className="container contact__container">
         <div className="contact__options">
 
           <article className="contact__option">
-            <HiOutlineMail />
+            <HiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>kevin.o.foreman2@gmail.com</h5>
             <a href="mailto:kevin.o.foreman2@gmail.com" target="_blank" rel="noreferrer">Message me</a>
           </article>
 
           <article className="contact__option">
-            <FaTwitter />
+            <FaTwitter className='contact__option-icon'/>
             <h4>Twitter</h4>
             <h5>@MasterFlexTech</h5>
             <a href="https://www.twitter.com/MasterFlexTech" target="_blank" rel="noreferrer">@Me</a>
           </article>
 
           <article className="contact__option">
-            <BsSignal />
+            <BsSignal className='contact__option-icon'/>
             <h4>Signal App</h4>
             <h5>210-760-5998</h5>
             <a href="https://api.signalapp.com/send?phone=12107605998" target="_blank" rel="noreferrer">Message me</a>

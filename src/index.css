@@ -9,7 +9,7 @@
     list-style: none;
     text-decoration: none;
 }
-/* Colorized using tetradic color scheme */
+/* Colorized using tetradic color scheme, thanks Google! */
 :root {
     --color-bg: #4285F4;
     --color-bg-variant: #DB4437;
@@ -115,7 +115,7 @@ img {
         width: var(--container-width-md);
     }
     section {
-        margin-top: 6rem;
+        margin-top: 5rem;
     }
 }
 

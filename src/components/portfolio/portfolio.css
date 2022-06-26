@@ -23,7 +23,7 @@
 }
 
 .portfolio__item h3 {
-    margin: 1rem 0 .75rem;
+    margin: 1rem 0 2rem;
 }
 
 .portfolio__item-cta {
@@ -45,6 +45,6 @@
 @media screen and (max-width: 600px) {
     .portfolio__container {
         grid-template-columns: 1fr;
-        gap: none;
+        gap: 1rem;
     }
     }
