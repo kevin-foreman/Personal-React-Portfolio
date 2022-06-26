@@ -38,7 +38,7 @@ const About = () => {
 
         </div>
         <p>
-          I'm an aspiring web developer, and ispired by all things tech!
+          I'm an aspiring web developer, and I'm inspired by all things tech!
           I've been working with computers for 20+ years and decided to begin
           coding so I could have a flexible work life.
           I am recently retired from the U.S. Army after 21+ years of humble

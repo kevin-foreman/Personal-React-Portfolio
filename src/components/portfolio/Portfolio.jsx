@@ -10,7 +10,8 @@ import MORETOCOME from '../../assets/kevin-equation-meme.png'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My projects</h5>
+      <h2>My projects</h2>
+      
 
       <div className="container portfolio__container">
 
@@ -18,8 +19,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={COFFEE} alt="Coffe shop" />
             <h3>Coffee Shop</h3>
+            <div className="portfolio__item-cta">
             <a href="https://github.com/kevin-foreman/Coffee-Shop-" className='btn' target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://coffee-from-the-world.herokuapp.com/" className='btn btn-primary' target="_blank" rel="noreferrer">Live link</a>
+            </div>
 
           </div>
           
