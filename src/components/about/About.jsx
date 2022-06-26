@@ -30,9 +30,9 @@ const About = () => {
             <small>Coming soon</small>
           </article>
 
-          <article className="about__card">
-            <VscFolder className="about__icon" />
-            <h5 href='#portfolio' className='btn'>Projects</h5>
+          <article href="#portfolio" className="about__card">
+            <VscFolder href='#portfolio' className="about__icon"/>
+            <h5>Projects</h5>
             <small>30+ Completed</small>
           </article>
 
