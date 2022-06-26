@@ -28,6 +28,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 10rem;
+    font-size: 25px;
 }
 
 /* --------- Make the image take up less space and give it some spice  --------- */
