@@ -2,6 +2,7 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import KEVIN from '../../assets/kevin-laptop-wave.png'
+import SocialLinks from './SocialLinks'
 
 const Header = () => {
   return (
@@ -9,8 +10,9 @@ const Header = () => {
       <div className="container header__container">
       <h5>Hello, my name is</h5>
       <h1>Kevin Foreman</h1>
-      <h5 className="text-light">Full Stack Developer</h5>
+      <h5 className="text-light">Full-stack Developer</h5>
       <CTA />
+      <SocialLinks />
 
       <div className="kevin">
         <img src={KEVIN} alt="Kevin inside a laptop" />
