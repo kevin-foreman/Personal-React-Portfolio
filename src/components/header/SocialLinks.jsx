@@ -5,7 +5,7 @@ const SocialLinks = () => {
     <div className="social__links">
         <a href="https://www.twitter.com/MasterFlexTech" target="_blank"></a>
         <a href="https://www.github.com/kevin-foreman" target="_blank"></a>
-        <a href="https://www.linkedin.com/MasterFlexTech" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/kevin-o-foreman2" target="_blank"></a>
 
 
     </div>
