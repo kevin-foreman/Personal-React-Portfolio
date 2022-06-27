@@ -1,13 +1,25 @@
-import React from 'react'
+import React, { useRef } from 'react';
 import './contact.css'
 import { HiOutlineMail } from 'react-icons/hi'
 import { FaTwitter } from 'react-icons/fa'
 import { BsSignal } from 'react-icons/bs'
+import emailjs from 'emailjs-com'
+
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_qgnj9dc', 'template_psiltal', form.current, 'tS2-ZUXhwDJo_GkZu')
+    e.target.reset()
+  };
+
   return (
     <section id='contact'>
       <h2>How to reach me</h2>
+      <h5>Use a link, or fill out the form below!</h5>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -33,11 +45,11 @@ const Contact = () => {
             <a href="https://api.signalapp.com/send?phone=12107605998" target="_blank" rel="noreferrer">Message me</a>
           </article>
         </div>
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your full name' required />
           <input type="email" name='email' placeholder='Your email' required />
           <textarea name="message" rows="8" placeholder='Your message' required></textarea>
-          <button type='submit' className='btn-btn-primary'>Send message</button>
+          <button type='submit' className='btn btn-primary'>Send message</button>
         </form>
       </div>
     </section>
