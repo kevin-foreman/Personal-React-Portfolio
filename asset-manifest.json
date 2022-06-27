@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal-React-Portfolio/static/css/main.c73ace17.css",
+    "main.js": "/Personal-React-Portfolio/static/js/main.23facce8.js",
+    "static/media/world-coffee-shop.png": "/Personal-React-Portfolio/static/media/world-coffee-shop.86be9b75b4fdb5ca4b0a.png",
+    "static/media/kevin-equation-meme.png": "/Personal-React-Portfolio/static/media/kevin-equation-meme.30592930dbc7b9676c93.png",
+    "static/media/kevin-laptop-wave.png": "/Personal-React-Portfolio/static/media/kevin-laptop-wave.85bde0d56b36123b52ea.png",
+    "static/media/work-img-01.png": "/Personal-React-Portfolio/static/media/work-img-01.1712a56022abc2d1f2fc.png",
+    "static/media/budget-tracker.png": "/Personal-React-Portfolio/static/media/budget-tracker.a595c741655e1f6ccbae.png",
+    "static/media/kevin-hmmm.png": "/Personal-React-Portfolio/static/media/kevin-hmmm.5c4e466ddc8297a9c135.png",
+    "static/media/readme-generator.png": "/Personal-React-Portfolio/static/media/readme-generator.809c64fea057cb4861aa.png",
+    "static/media/cool-sudoku-screenshot.png": "/Personal-React-Portfolio/static/media/cool-sudoku-screenshot.21c8a060899644fa7278.png",
+    "static/media/resume.pdf": "/Personal-React-Portfolio/static/media/resume.8263eb15c343bffb24c6.pdf",
+    "index.html": "/Personal-React-Portfolio/index.html",
+    "main.c73ace17.css.map": "/Personal-React-Portfolio/static/css/main.c73ace17.css.map",
+    "main.23facce8.js.map": "/Personal-React-Portfolio/static/js/main.23facce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73ace17.css",
+    "static/js/main.23facce8.js"
+  ]
+}
