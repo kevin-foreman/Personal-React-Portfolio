@@ -1,5 +1,6 @@
 {
   "name": "personal-react-portfolio",
+  "homepage": "https://kevin-foreman.github.io/Personal-React-Portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
