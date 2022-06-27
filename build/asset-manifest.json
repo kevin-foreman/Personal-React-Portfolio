@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d7719a2.css",
+    "main.js": "/static/js/main.3432dda6.js",
+    "static/media/world-coffee-shop.png": "/static/media/world-coffee-shop.86be9b75b4fdb5ca4b0a.png",
+    "static/media/kevin-equation-meme.png": "/static/media/kevin-equation-meme.30592930dbc7b9676c93.png",
+    "static/media/kevin-laptop-wave.png": "/static/media/kevin-laptop-wave.85bde0d56b36123b52ea.png",
+    "static/media/work-img-01.png": "/static/media/work-img-01.1712a56022abc2d1f2fc.png",
+    "static/media/budget-tracker.png": "/static/media/budget-tracker.a595c741655e1f6ccbae.png",
+    "static/media/kevin-hmmm.png": "/static/media/kevin-hmmm.5c4e466ddc8297a9c135.png",
+    "static/media/readme-generator.png": "/static/media/readme-generator.809c64fea057cb4861aa.png",
+    "static/media/cool-sudoku-screenshot.png": "/static/media/cool-sudoku-screenshot.21c8a060899644fa7278.png",
+    "static/media/resume.pdf": "/static/media/resume.8263eb15c343bffb24c6.pdf",
+    "index.html": "/index.html",
+    "main.8d7719a2.css.map": "/static/css/main.8d7719a2.css.map",
+    "main.3432dda6.js.map": "/static/js/main.3432dda6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7719a2.css",
+    "static/js/main.3432dda6.js"
+  ]
+}
