@@ -27,7 +27,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 10rem;
+    bottom: 3rem;
     font-size: 25px;
 }
 
@@ -37,16 +37,16 @@ header {
     width: 25rem;
     position: absolute;
     border-radius: 50px;
-    left: calc(50% - 12.5rem);
-    margin-top: 1rem;
-    border-radius: 10rem 10rem;
+    left: calc(50% - 11rem);
+    margin-top: 3rem;
+    border-radius: 11rem 11rem;
     padding: 1rem 2rem;
 }
 
 /* ---------------------MEDIA QUERIES (tablets and such)---------------------- */
 @media screen and (max-width: 1024px) {
     header {
-        height: 100vh;
+        height: 68vh;
     }
 
 }
