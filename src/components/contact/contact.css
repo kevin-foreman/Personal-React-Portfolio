@@ -43,7 +43,7 @@ form {
 }
 
 h5 {
-    color: light;
+    color: var(--color-light);
 }
 
 input, textarea {
