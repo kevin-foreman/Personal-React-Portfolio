@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal-React-Portfolio/static/css/main.c73ace17.css",
+    "main.css": "/Personal-React-Portfolio/static/css/main.a6860381.css",
     "main.js": "/Personal-React-Portfolio/static/js/main.23facce8.js",
     "static/media/world-coffee-shop.png": "/Personal-React-Portfolio/static/media/world-coffee-shop.86be9b75b4fdb5ca4b0a.png",
     "static/media/kevin-equation-meme.png": "/Personal-React-Portfolio/static/media/kevin-equation-meme.30592930dbc7b9676c93.png",
@@ -12,11 +12,11 @@
     "static/media/cool-sudoku-screenshot.png": "/Personal-React-Portfolio/static/media/cool-sudoku-screenshot.21c8a060899644fa7278.png",
     "static/media/resume.pdf": "/Personal-React-Portfolio/static/media/resume.8263eb15c343bffb24c6.pdf",
     "index.html": "/Personal-React-Portfolio/index.html",
-    "main.c73ace17.css.map": "/Personal-React-Portfolio/static/css/main.c73ace17.css.map",
+    "main.a6860381.css.map": "/Personal-React-Portfolio/static/css/main.a6860381.css.map",
     "main.23facce8.js.map": "/Personal-React-Portfolio/static/js/main.23facce8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73ace17.css",
+    "static/css/main.a6860381.css",
     "static/js/main.23facce8.js"
   ]
 }
