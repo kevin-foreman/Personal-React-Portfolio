@@ -17,7 +17,7 @@ My personal portfolio built with React!
 * [License](#license) 
 
 ## Installation
-To run locally (development server) use npm install to install all the dependencies, and run with npm start.
+To run locally (development server) use npm install to install all the dependencies, and run with npm start, or visit the live website.
 
 ## Usage
 This is my personal portfolio to showcase my work. It uses HTML, CSS, Node, React, and emailjs! See screenshot below.
