@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-React-Portfolio/static/css/main.c72fe9c9.css",
-    "main.js": "/Personal-React-Portfolio/static/js/main.07f19bea.js",
+    "main.js": "/Personal-React-Portfolio/static/js/main.aa99241c.js",
     "static/media/world-coffee-shop.png": "/Personal-React-Portfolio/static/media/world-coffee-shop.86be9b75b4fdb5ca4b0a.png",
     "static/media/uplol-screen-grab.png": "/Personal-React-Portfolio/static/media/uplol-screen-grab.82fe75af6c77408aa638.png",
     "static/media/kevin-laptop-wave.png": "/Personal-React-Portfolio/static/media/kevin-laptop-wave.85bde0d56b36123b52ea.png",
@@ -10,13 +10,13 @@
     "static/media/kevin-hmmm.png": "/Personal-React-Portfolio/static/media/kevin-hmmm.5c4e466ddc8297a9c135.png",
     "static/media/readme-generator.png": "/Personal-React-Portfolio/static/media/readme-generator.809c64fea057cb4861aa.png",
     "static/media/cool-sudoku-screenshot.png": "/Personal-React-Portfolio/static/media/cool-sudoku-screenshot.21c8a060899644fa7278.png",
-    "static/media/resume.pdf": "/Personal-React-Portfolio/static/media/resume.8263eb15c343bffb24c6.pdf",
+    "static/media/kevin-foreman-cv": "/Personal-React-Portfolio/static/media/kevin-foreman-cv.fc5842a12a88d7683db6",
     "index.html": "/Personal-React-Portfolio/index.html",
     "main.c72fe9c9.css.map": "/Personal-React-Portfolio/static/css/main.c72fe9c9.css.map",
-    "main.07f19bea.js.map": "/Personal-React-Portfolio/static/js/main.07f19bea.js.map"
+    "main.aa99241c.js.map": "/Personal-React-Portfolio/static/js/main.aa99241c.js.map"
   },
   "entrypoints": [
     "static/css/main.c72fe9c9.css",
-    "static/js/main.07f19bea.js"
+    "static/js/main.aa99241c.js"
   ]
 }
